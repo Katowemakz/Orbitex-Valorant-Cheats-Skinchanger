@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F06D4BC1-FB2C-4CB9-A0AD-4B1973149CF9}") = "Valorant", "Valorant\Valorant.vcxproj", "{BA493070-E451-4F0F-BB77-000C1809C910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA493070-E451-4F0F-BB77-000C1809C910}.Debug|x64.ActiveCfg = Debug|x64
+		{BA493070-E451-4F0F-BB77-000C1809C910}.Debug|x64.Build.0 = Debug|x64
+		{BA493070-E451-4F0F-BB77-000C1809C910}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA493070-E451-4F0F-BB77-000C1809C910}.Debug|x86.Build.0 = Debug|Win32
+		{BA493070-E451-4F0F-BB77-000C1809C910}.Release|x64.ActiveCfg = Release|x64
+		{BA493070-E451-4F0F-BB77-000C1809C910}.Release|x64.Build.0 = Release|x64
+		{BA493070-E451-4F0F-BB77-000C1809C910}.Release|x86.ActiveCfg = Release|Win32
+		{BA493070-E451-4F0F-BB77-000C1809C910}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4784D528-C2E7-4D2F-AFFA-0DD72C54F7DB}
+	EndGlobalSection
+EndGlobal
